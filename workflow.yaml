@@ -1,0 +1,11 @@
+---
+  - ORG: sebas-org
+    WORKFLOW_NAME: "Semgrep PR workflow"
+    WORKFLOW_REPO: "sebas-org/required-workflow"
+    WORKFLOW_PATH: "semgrep.yaml"
+    PROD: True
+    #ADD_REPOS: ["A", "B"]
+    #REMOVE_REPOS: []
+    AUTHOR_NAME: Sebas Revuelta
+    AUTHOR_EMAIL: sebastianrevuelta@gmail.com
+    
