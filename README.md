@@ -1,2 +1,2 @@
-# required-workflow
-required workflow
+# required workflow
+semgrep required workflow
